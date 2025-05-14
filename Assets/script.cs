@@ -1,4 +1,4 @@
-
+﻿
 using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -8,7 +8,7 @@ public class script : MonoBehaviour
    
     public void OnStartClick()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Первая");
     }
     public void OnExitClick()
     {
